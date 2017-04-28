@@ -1,0 +1,40 @@
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Tests.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Tests.pdb
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\WebDriver.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\WebDriver.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\obj\Debug\Tests.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\Tests\obj\Debug\Tests.pdb
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Tests.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Tests.pdb
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\WebDriver.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\WebDriver.Support.dll
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\Selenium-Test\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projects\Selenium-Test\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\projects\Selenium-Test\Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\projects\Selenium-Test\Tests\bin\Debug\WebDriver.xml
+C:\projects\Selenium-Test\Tests\bin\Debug\WebDriver.Support.xml
+C:\projects\Selenium-Test\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\projects\Selenium-Test\Tests\obj\Debug\Tests.dll
+C:\projects\Selenium-Test\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,42 @@
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\WebDriver.Support.xml
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Tests.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Tests.pdb
+C:\Users\arcon\documents\visual studio 2017\Projects\Selenium Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Tests.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Tests.pdb
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\WebDriver.Support.xml
+C:\projects\Selenium-Test\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\Selenium-Test\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\projects\Selenium-Test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\projects\Selenium-Test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
